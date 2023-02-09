@@ -1,0 +1,1 @@
+1.in checkout--- those customers that gets checked out, i would store all the room num's where they stayed in the col alocatedRoom.
